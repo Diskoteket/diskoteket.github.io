@@ -26,4 +26,4 @@ titles:
   # @end locale config
 key: page-about
 ---
-This is a blog I will use to post stuff about everyday problem solving, ongoing projects, maybe tutorials and probably memes!
+This is a blog I will use to post stuff about everyday problem solving, ongoing projects, maybe tutorials and probably memes! 🖖
