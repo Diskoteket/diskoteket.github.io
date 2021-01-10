@@ -16,13 +16,13 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: disco_dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Diskoteket's Adventure
 description: > # this means to ignore newlines until "Language & timezone"
-  This is a blog I will use for posting 
+  This is a blog I will use to post stuff about everyday problem solving, ongoing projects, maybe tutorials and probably memes!
 
 
 ## => Language and Timezone
@@ -38,7 +38,7 @@ author:
   name      : Tim Wetterek Andersson
   url       : https://diskoteket.github.io/
   avatar    : https://nextcloud.wetterek.se/index.php/s/FYfQSeLnJLsonHc/preview
-  bio       : I am a linux server technician with a passion for social movements and open source software.
+  bio       : I am a Linux server technician with a passion for social movements and open source software.
   email     : tim@wetterek.se
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -74,7 +74,7 @@ paths:
 excerpt_separator: <!--more-->
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+license: # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
