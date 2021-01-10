@@ -36,8 +36,8 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : person # "person" (default), "organization"
   name      : Tim Wetterek Andersson
-  url       :
-  avatar    : assets/images/author/profile_picture.jpg
+  url       : https://diskoteket.github.io/
+  avatar    : https://nextcloud.wetterek.se/index.php/s/FYfQSeLnJLsonHc/preview
   bio       : I am a linux server technician with a passion for social movements and open source software.
   email     : tim@wetterek.se
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -211,7 +211,7 @@ defaults:
       license: true
       aside:
         toc: true
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
 
