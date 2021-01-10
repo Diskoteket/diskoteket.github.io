@@ -34,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  type      : Tim Wetterek Andersson # "person" (default), "organization"
+  type      : person # "person" (default), "organization"
   name      : Tim Wetterek Andersson
   url       :
   avatar    : assets/images/author/profile_picture.jpg
