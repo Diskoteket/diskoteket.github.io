@@ -2,11 +2,6 @@
 title: Hello World!
 tags: uncategorized
 show_author_profile: true
-
-variables:
-- name: apache_package
-  value: initialValue 
-
 ---
 This is my first post! :vulcan_salute:
 
