@@ -37,8 +37,8 @@ author:
   type      : person # "person" (default), "organization"
   name      : Tim Wetterek Andersson
   url       : https://diskoteket.github.io/
-  avatar    : https://nextcloud.wetterek.se/index.php/s/FYfQSeLnJLsonHc/preview
-  bio       : I am a Linux server technician with a passion for social movements and open source software.
+  avatar    : /profile_picture_work.jpg
+  bio       : I am a Linux server technician with a passion for social movements and open source.
   email     : tim@wetterek.se
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -212,7 +212,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: false
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
 
 
